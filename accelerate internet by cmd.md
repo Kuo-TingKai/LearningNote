@@ -1,0 +1,1 @@
+# accelerate internet by cmd
