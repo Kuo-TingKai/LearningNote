@@ -63,3 +63,5 @@ class Machine(object):
     def build(self):
         if not self._built: # if not built
 ``
+
+meaning of `-u` in git argument, see [discussion](https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma)
